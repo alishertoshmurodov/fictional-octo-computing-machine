@@ -1,1 +1,1 @@
-﻿
+﻿string[] arr = { "hello", "world", "!", "My", "name", "is", "Alisher!" };
