@@ -1,4 +1,4 @@
-# fictional-octo-computing-machine
+# Task for GeekBrains
 
 ## 1. Filling the string array by asking user input.
 ## 2. Declaring a List<string> for formatting the string that has been filled by user.
